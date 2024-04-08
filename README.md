@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src = "https://media.licdn.com/dms/image/D5616AQF8rhWQNYzX8w/profile-displaybackgroundimage-shrink_350_1400/0/1712028223791?e=1718236800&v=beta&t=8gKe6IY5HJ9j1GW0IXokZrH52w7oTNtPdwCKM2KptZk";
 <!--
 **anuj-vishwakarma/anuj-vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
