@@ -5,7 +5,7 @@
 
 
 <div color="red">
-<h1 align="center">Aspiring Software Engineer based on India!</h1>
+<h1 align="center">Aspiring Software Engineer from India!</h1>
 </div>
 <div align="center">
 
