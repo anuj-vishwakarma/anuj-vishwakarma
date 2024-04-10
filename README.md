@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
- 👨‍💻 **All of my projects are available at** [github.com/anuj-vishwakarma]([github.com/anuj-vishwakarma](https://github.com/anuj-vishwakarma?tab=repositories))
+ 👨‍💻 **All of my projects are available ** [here]([github.com/anuj-vishwakarma](https://github.com/anuj-vishwakarma?tab=repositories))
 
 🔭 One of my project is [Zescoot (A bike rental service website)](https://anuj-vishwakarma.github.io/zescoot/)
 
