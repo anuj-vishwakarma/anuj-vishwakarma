@@ -4,14 +4,12 @@
 </div>
 
 
----
-<h3 align="center">Aspiring Software Engineer based on India!</h3>
-
-
-
+<div color="red">
+<h1 align="center">Aspiring Software Engineer based on India!</h1>
+</div>
 <div align="center">
 
- 👨‍💻 All of my projects are available at [github.com/anuj-vishwakarma](github.com/anuj-vishwakarma)
+ 👨‍💻 **All of my projects are available at** [github.com/anuj-vishwakarma](github.com/anuj-vishwakarma)
 
 🔭 One of my project is [Zescoot (A bike rental service website)](https://anuj-vishwakarma.github.io/zescoot/)
 
