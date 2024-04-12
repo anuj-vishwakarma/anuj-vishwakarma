@@ -1,4 +1,4 @@
-
+z`
 <div align="center">
  <img src="https://github.com/anuj-vishwakarma/anuj-vishwakarma/assets/160238331/0c227f11-034e-4147-b47c-4166d8321706" alt="">
 </div>
@@ -42,4 +42,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-vishwakarma&show_icons=true&locale=en&layout=compact" alt="anuj-vishwakarma" /></p>
 
 <p><img align-left="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-vishwakarma&" alt="anuj-vishwakarma" /></p>
+
+https://github.com/anuj-vishwakarma/anuj-vishwakarma/blob/output/github-contribution-grid-snake.gif
+
+
+## Snake eating contributions
+
 ![snake gif](https://github.com/anuj-vishwakarma/anuj-vishwakarma/blob/output/github-contribution-grid-snake.gif)
