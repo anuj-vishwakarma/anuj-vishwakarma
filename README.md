@@ -47,4 +47,4 @@
 
 ## Snake eating contributions
 
-![snake gif](https://github.com/anuj-vishwakarma/anuj-vishwakarma/blob/output/github-contribution-grid-snake.gif)
+![snake](https://github.com/anuj-vishwakarma/anuj-vishwakarma/blob/output/github-contribution-grid-snake.gif)
