@@ -44,7 +44,3 @@
 
 
 
-
-## Snake eating contributions
-
-![snake](https://github.com/anuj-vishwakarma/anuj-vishwakarma/blob/output/github-contribution-grid-snake.gif)
