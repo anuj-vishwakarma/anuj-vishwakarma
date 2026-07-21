@@ -483,7 +483,6 @@ Complete Bike Rental Service platform built using Java & MySQL.
 
 </div>
 
-> ⚠️ You'll generate this automatically using GitHub Actions later.
 
 ---
 
